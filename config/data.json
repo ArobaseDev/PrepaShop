@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "designation": "T-shirt homme Nike",
+    "categorie": "homme",
+    "modele": "T-shirt sport",
+    "prix": 29.99,
+    "promotion": true,
+    "image": "https://i8.amplience.net/i/jpl/jd_668573_a?qlt=92&w=600&h=765&v=1&fmt=auto",
+    "image_2": "https://images.nike.com/is/image/DotCom/CZ9191_010_A_PREM?$SNKRS_DETAIL_WD$&align=0,1"
+  },
+  {
+    "id": 2,
+    "designation": "Jean homme Levi's",
+    "categorie": "homme",
+    "modele": "501 Original",
+    "prix": 89.99,
+    "promotion": false,
+    "image": "https://leblogdemonsieur.com/wp-content/uploads/2020/09/jeans-levis-taille-homme.jpg",
+    "image_2": "https://www.levi.com/medias/005011703-0002-B?$zoom$&h=2000&w=2000&fit=constrain"
+  },
+  {
+    "id": 3,
+    "designation": "Chaussures Adidas",
+    "categorie": "homme",
+    "modele": "Ultraboost 21",
+    "prix": 159.99,
+    "promotion": true,
+    "image": "https://product-cdn-frz.alltricks.com/large/489/79489/2079489/4864257",
+    "image_2": "https://assets.adidas.com/images/w_600,f_auto,q_auto/efdf7401d33e4dc4a4f2abea011f14d0_9366/Ultraboost_21_Shoes_White_FY0370_02_standard_hover.jpg"
+  },
+  {
+    "id": 4,
+    "designation": "Blouson homme The North Face",
+    "categorie": "homme",
+    "modele": "Thermoball Eco",
+    "prix": 199.99,
+    "promotion": false,
+    "image": "https://viacomit.net/wp-content/uploads/2019/09/doudoune-the-north-face-thermoball-eco-00.jpg",
+    "image_2": "https://www.thenorthface.com/shop/men-jackets-vests-insulated-jackets/men-s-thermoball-eco-jacket-nf0a3y3c?variationId=DYZ#hero=1"
+  },
+  {
+    "id": 5,
+    "designation": "Pull Tommy Hilfiger",
+    "categorie": "homme",
+    "modele": "Essential",
+    "prix": 79.99,
+    "promotion": true,
+    "image": "https://photos6.spartoo.com/photos/226/22654379/22654379_1200_B.jpg",
+    "image_2": "https://tommy-europe.scene7.com/is/image/TommyEurope/KG0KG04895_DW5_flat?$flat$"
+  },
+  {
+    "id": 6,
+    "designation": "Robe femme Zara",
+    "categorie": "femme",
+    "modele": "Robe fleurie",
+    "prix": 49.99,
+    "promotion": false,
+    "image": "https://media.cupshe.com/cdn-review.cupshe.com/cmc-admin/product/20240619/80fd1738251eb1917b49f48e4943d18e.jpg?speedsize=mxw_540",
+    "image_2": "https://static.zara.net/photos//2023/I/0/1/p/2180/123/330/2/w/561/2180123330_2_1_1.jpg?ts=1689620597182"
+  },
+  {
+    "id": 7,
+    "designation": "Pantalon femme Mango",
+    "categorie": "femme",
+    "modele": "Paysley",
+    "prix": 39.99,
+    "promotion": true,
+    "image": "https://www.mangooutlet.com/assets/rcs/pics/static/T4/fotos/outfit/S/47085955_43-99999999_01.jpg?imwidth=2048&imdensity=1&ts=1675946339603",
+    "image_2": "https://st.mngbcn.com/rcs/pics/static/T7/fotos/S20/77077607_37_R.jpg?ts=1684357562398&imwidth=412&imdensity=2"
+  },
+  {
+    "id": 8,
+    "designation": "Blouson femme H&M",
+    "categorie": "femme",
+    "modele": "Blouson biker",
+    "prix": 59.99,
+    "promotion": false,
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F4b%2Ffe%2F4bfe19b702acfa9ef0ec5e69abfd75b92ff735c3.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "image_2": "https://lp2.hm.com/hmgoepprod?set=source[/43/25/43252a2c07f1ba27f92b5466bb66b8b671efb80f.jpg],type[DETAIL],res[m],hmver[1]&call=url[file:/product/main]"
+  },
+  {
+    "id": 9,
+    "designation": "Chaussures Nike Air Max",
+    "categorie": "femme",
+    "modele": "Air Max 270",
+    "prix": 129.99,
+    "promotion": true,
+    "image": "https://static.ftshp.digital/img/p/1/1/2/3/8/3/1/1123831-full_product.jpg",
+    "image_2": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed907237-e4e0-4204-9e52-6a80f232fc7d/air-max-270-womens-shoe-KkLcGR.png"
+  },
+  {
+    "id": 10,
+    "designation": "Sac à main femme Guess",
+    "categorie": "femme",
+    "modele": "Kamryn",
+    "prix": 75.0,
+    "promotion": false,
+    "image": "https://assets.laboutiqueofficielle.com/w_450,q_auto,f_auto/media/products/2020/06/19/guess_223398_SG774610_BLACK_20200706T160529_01.jpg",
+    "image_2": "https://guess.scene7.com/is/image/GuessEU/GHSCAMPIUMCE_BLU_ALT1?$RLKPDP1$"
+  },
+  {
+    "id": 11,
+    "designation": "T-shirt enfant Disney",
+    "categorie": "enfant",
+    "modele": "Mickey Mouse",
+    "prix": 19.99,
+    "promotion": true,
+    "image": "https://ae01.alicdn.com/kf/S6e5bb2f7bc7c41aaa97b6ac698fa2934L.jpg_640x640Q90.jpg_.webp",
+    "image_2": "https://www.shopdisney.com/graphics/product_images/pToys/6407160260417-2.jpg"
+  },
+  {
+    "id": 12,
+    "designation": "Jean enfant H&M",
+    "categorie": "enfant",
+    "modele": "Slim Fit",
+    "prix": 29.99,
+    "promotion": false,
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F47%2F94%2F479456bfdf18a370b0492b2c2a43177cae478a54.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "image_2": "https://lp2.hm.com/hmgoepprod?set=source[/c8/8e/c88ed80cd1a91d36ff43e3d28fdb3507870d2a84.jpg],type[DETAIL],res[m],hmver[1]&call=url[file:/product/main]"
+  },
+  {
+    "id": 13,
+    "designation": "Chaussures enfant Adidas",
+    "categorie": "enfant",
+    "modele": "Superstar",
+    "prix": 59.99,
+    "promotion": true,
+    "image": "https://m.media-amazon.com/images/I/71ri7OuDoPL._AC_UY900_.jpg",
+    "image_2": "https://assets.adidas.com/images/w_600,f_auto,q_auto/abb1352221e54b82bff4abc7010d4120_9366/Superstar_Shoes_White_EG4958_02_standard_hover.jpg"
+  },
+  {
+    "id": 14,
+    "designation": "Veste enfant Zara",
+    "categorie": "enfant",
+    "modele": "Veste en jean",
+    "prix": 39.99,
+    "promotion": false,
+    "image": "https://images1.vinted.net/t/03_01a3e_wWcUtDXY1USB4ABXhfNaqtPP/f800/1691565672.jpeg?s=25da10ac94f539ff3d0ade5429ac49e91ef963ed",
+    "image_2": "https://static.zara.net/photos//2023/I/0/3/p/3185/050/800/2/w/561/3185050800_2_1_1.jpg?ts=1689778018772"
+  },
+  {
+    "id": 15,
+    "designation": "Sweat-shirt enfant Nike",
+    "categorie": "enfant",
+    "modele": "Air",
+    "prix": 34.99,
+    "promotion": true,
+    "image": "https://www.ekinsport.com/media/opti_image/webp/catalog/product/cache/7fc3f12cb5030593d0b77be39e696886/f/d/fd2988-410_sweat-capuche-nike-sportswear-club-fleece-enfant-fd2988-410_01_1.webp",
+    "image_2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/f8e2d5d8-2eae-4e4d-98b2-1b19e6d19b5c/air-older-crew-sweatshirt-XrHJ1m.jpg"
+  },
+  {
+    "id": 16,
+    "designation": "Montre homme Casio",
+    "categorie": "accessoires",
+    "modele": "G-Shock",
+    "prix": 99.99,
+    "promotion": true,
+    "image": "https://static.fnac-static.com/multimedia/Images/59/59/73/4B/4944729-3-1520-1/tsp20190718161930/Montre-Homme-Casio-MTP-1374D-1.jpg",
+    "image_2": "https://images.casio.com/s3fs-public/styles/product_image_900/public/product/AH9U0290_b.jpg?itok=yI2nOPqH"
+  },
+  {
+    "id": 17,
+    "designation": "Sac à dos Eastpak",
+    "categorie": "accessoires",
+    "modele": "Padded Pak'r",
+    "prix": 49.99,
+    "promotion": false,
+    "image": "https://www.eastpak.com/media/catalog/product/cache/7e86b16e927e7bf256b2e257717508c0/E/K/EK000620_41N_ALT001_1.jpg",
+    "image_2": "https://www.eastpak.com/static/resize/products/zoom/ek620008-1-zoom_b.jpg"
+  },
+  {
+    "id": 18,
+    "designation": "Lunettes de soleil Ray-Ban",
+    "categorie": "accessoires",
+    "modele": "Aviator",
+    "prix": 129.99,
+    "promotion": true,
+    "image": "https://www.sportrx.com/sportrx-blog/wp-content/uploads/2020/10/ray-ban-aviator-collection.jpg",
+    "image_2": "https://images.ray-ban.com/is/image/RayBan/805289602057__STD__shad__qtr__0?$zoom$"
+  },
+  {
+    "id": 19,
+    "designation": "Casquette New Era",
+    "categorie": "accessoires",
+    "modele": "NY Yankees",
+    "prix": 34.99,
+    "promotion": false,
+    "image": "https://i8.amplience.net/i/jpl/jd_709869_a?qlt=92&w=600&h=765&v=1&fmt=auto",
+    "image_2": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b2fa7ab1-bb5e-4f10-8a04-e96d52f717d5/9fifty-adjustable-snapback-baseball-cap-vyHhW8-2.png"
+  },
+  {
+    "id": 20,
+    "designation": "Écharpe Burberry",
+    "categorie": "accessoires",
+    "modele": "Check",
+    "prix": 399.99,
+    "promotion": true,
+    "image": "https://img01.ztat.net/article/spp-media-p1/c697362f580b4c1bb53403bf03add0e4/eeef032869c44ed28cb9a5093e34cea4.jpg?imwidth=1800",
+    "image_2": "https://assets.burberry.com/is/image/Burberryltd/2D4D8982-1C6F-4D4C-8D4A-59D48664FE68?$BBY_V2_SL_2x1$&wid=500&hei=500"
+  },
+  {
+    "id": 21,
+    "designation": "Pantalon de survêtement homme Nike",
+    "categorie": "homme",
+    "modele": "Tech Fleece",
+    "prix": 89.99,
+    "promotion": true,
+    "image": "https://www.wimod.com/153696-product_page/jogging-sportswear-club-noir-garcon-nike.jpg",
+    "image_2": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/bb37df96-0ae7-4813-9b3e-b3c77a3d8053/tech-fleece-men-s-training-pants-kgPHj2.jpg"
+  },
+  {
+    "id": 22,
+    "designation": "Chemise Ralph Lauren",
+    "categorie": "homme",
+    "modele": "Oxford",
+    "prix": 99.99,
+    "promotion": false,
+    "image": "https://photos6.spartoo.com/photos/254/25485771/25485771_500_B.jpg",
+    "image_2": "https://images.ralphlauren.com/is/image/PoloGSI/20205150_000001?hei=2000&wid=2000&resmode=sharp&op_usm=1.75,0.3,2,0"
+  },
+  {
+    "id": 23,
+    "designation": "Veste femme Adidas",
+    "categorie": "femme",
+    "modele": "Essentials",
+    "prix": 59.99,
+    "promotion": true,
+    "image": "https://i.pinimg.com/474x/cd/4a/24/cd4a24dbb26fb3dae47b987581069f91.jpg",
+    "image_2": "https://assets.adidas.com/images/w_600,f_auto,q_auto/abb1352221e54b82bff4abc7010d4120_9366/Essentials_Track_Jacket_Black_GN3545_02_standard_hover.jpg"
+  },
+  {
+    "id": 24,
+    "designation": "Robe femme H&M",
+    "categorie": "femme",
+    "modele": "Robe longue",
+    "prix": 49.99,
+    "promotion": false,
+    "image": "https://lp2.hm.com/hmgoepprod?set=quality%5B79%5D%2Csource%5B%2F59%2F92%2F59928552af18151afd2d4ecf8d044c5bfea01c56.jpg%5D%2Corigin%5Bdam%5D%2Ccategory%5B%5D%2Ctype%5BLOOKBOOK%5D%2Cres%5Bm%5D%2Chmver%5B1%5D&call=url[file:/product/main]",
+    "image_2": "https://lp2.hm.com/hmgoepprod?set=source[/43/25/43252a2c07f1ba27f92b5466bb66b8b671efb80f.jpg],type[DETAIL],res[m],hmver[1]&call=url[file:/product/main]"
+  },
+  {
+    "id": 25,
+    "designation": "Short enfant Nike",
+    "categorie": "enfant",
+    "modele": "Dry",
+    "prix": 24.99,
+    "promotion": true,
+    "image": "https://i8.amplience.net/i/jpl/jd_690654_a?qlt=92&w=600&h=765&v=1&fmt=auto",
+    "image_2": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ed907237-e4e0-4204-9e52-6a80f232fc7d/short-enfant-dry-2.png"
+  },
+  {
+    "id": 26,
+    "designation": "Chemise enfant Zara",
+    "categorie": "enfant",
+    "modele": "Chemise en lin",
+    "prix": 29.99,
+    "promotion": false,
+    "image": "https://static.zara.net/assets/public/324a/8ddb/7de14c13a9ca/04a2a5696014/06085506400400-p/06085506400400-p.jpg?ts=1714463471194&w=404",
+    "image_2": "https://static.zara.net/photos//2023/I/0/3/p/3185/050/800/2/w/561/3185050800_2_1_1.jpg?ts=1689778018772"
+  },
+  {
+    "id": 27,
+    "designation": "Lunettes de soleil enfant Ray-Ban",
+    "categorie": "accessoire",
+    "modele": "Wayfarer",
+    "prix": 69.99,
+    "promotion": true,
+    "image": "https://www.optique-debauge.com/wp-content/uploads/2016/06/Ray-Ban-enfant-solaire-Opticien-Debauge-69.jpg",
+    "image_2": "https://images.ray-ban.com/is/image/RayBan/805289602057__STD__shad__qtr__0?$zoom$"
+  },
+  {
+    "id": 28,
+    "designation": "Montre femme Casio",
+    "categorie": "accessoires",
+    "modele": "Baby-G",
+    "prix": 89.99,
+    "promotion": false,
+    "image": "https://i.ebayimg.com/images/g/k-8AAOSwsQJcJsrx/s-l1200.jpg",
+    "image_2": "https://images.casio.com/s3fs-public/styles/product_image_900/public/product/AH9U0290_b.jpg?itok=yI2nOPqH"
+  },
+  {
+    "id": 29,
+    "designation": "Écharpe homme Ralph Lauren",
+    "categorie": "accessoires",
+    "modele": "Cashmere",
+    "prix": 199.99,
+    "promotion": true,
+    "image": "https://media.gqmagazine.fr/photos/6329dcc3757a29de004fad87/1:1/w_900,h_900,c_limit/Ralph%20Lauren.jpg",
+    "image_2": "https://images.ralphlauren.com/is/image/PoloGSI/20205150_000001?hei=2000&wid=2000&resmode=sharp&op_usm=1.75,0.3,2,0"
+  },
+  {
+    "id": 30,
+    "designation": "Sac à dos femme Guess",
+    "categorie": "accessoires",
+    "modele": "Vikky",
+    "prix": 99.99,
+    "promotion": false,
+    "image": "https://img01.ztat.net/article/spp-media-p1/d051975d98f94f629f38322b5c35efcb/631d491efbfa40e49882be6e575b7769.jpg?imwidth=1800",
+    "image_2": "https://guess.scene7.com/is/image/GuessEU/GHSCAMPIUMCE_BLU_ALT1?$RLKPDP1$"
+  }
+]
