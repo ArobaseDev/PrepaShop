@@ -8,7 +8,7 @@
           <div class="col-lg-12">
             <div class="inner-content">
               <h2>
-                <?  echo htmlspecialchars($product["designation"]);?>
+                <?php  echo htmlspecialchars($product["designation"]);?>
               </h2>
               <span>Gardez un look toujours branché</span>
             </div>
@@ -37,17 +37,17 @@
             <div class="right-content">
 
               <!-- <h4>
-                <? 
+                <?php 
                 echo htmlspecialchars($product["designation"]);
                 ?>
               </h4> -->
               <h4>
-                <? 
+                <?php 
                 echo htmlspecialchars($product["modele"]);
                 ?>
               </h4>
               <span class="price">€
-                <? 
+                <?php 
                 echo htmlspecialchars($product["prix"]);
                 ?>
               </span>
@@ -57,7 +57,7 @@
                 <li><i class="fa fa-star"></i></li>
               </ul>
               <span>
-                <? 
+                <?php 
                 echo 'Catégorie : ' . htmlspecialchars($product["categorie"]);
                 ?>
               </span>
