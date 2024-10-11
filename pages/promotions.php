@@ -41,21 +41,21 @@
               <div class="thumb img-product">
                 <div class="hover-content ">
                   <ul>
-                    <li><a href="index.php?page=product&id=<? echo htmlspecialchars($product['id'] );?>"><i
+                    <li><a href="index.php?page=product&id=<?php echo htmlspecialchars($product['id'] );?>"><i
                           class="fa fa-eye"></i></a>
                     </li>
                     <li><a href="#"><i class="fa fa-star"></i></a></li>
                     <li><a href="#"><i class="fa fa-shopping-cart"></i></a></li>
                   </ul>
                 </div>
-                <img src=<? echo htmlspecialchars($product["image"]) ;?> alt="" class=" img-zoom-effect">
+                <img src=<?php echo htmlspecialchars($product["image"]) ;?> alt="" class=" img-zoom-effect">
               </div>
               <div class="down-content">
                 <h4>
-                  <?  echo htmlspecialchars($product["designation"]) ;?>
+                  <?php echo htmlspecialchars($product["designation"]) ;?>
                 </h4>
                 <span>€
-                  <?  echo htmlspecialchars($product["prix"]) ;?>
+                  <?php echo htmlspecialchars($product["prix"]) ;?>
                 </span>
                 <ul class="stars">
                   <li><i class="fa fa-star"></i></li>
